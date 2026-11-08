@@ -1,0 +1,17 @@
+body{
+font-family:Arial, sans-serif;
+max width: 800px;
+margin: 40px auto;
+padding: 20px;
+}
+
+h1{
+text-align: center;
+color: darkblue;
+font-size: 36px
+}
+
+h3{
+color: darkblue; 
+font-size: 24px;
+}
